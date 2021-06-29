@@ -15,7 +15,7 @@ The programm is running with following command:
 	python3 CANBus_Datenlogger_Autowahl+LCD.py 
 	
 Following libraries have to be installed: RPi.GPIO, can, queue, subprocess, numpy, matplotlib.pyplot, smbus
-Following files are installed with the standard python package: time, datetime, os, csv
+Following files are installed with the standard python package: time, datetime, os, csv 
 The files CANBus_Datenlogger_Autowahl+LCD.py, CANBus_PIDs.py, CANBus_SIDs.py, CANBus_LCD.py, CANBus_AT24C256.py and CANBus_DS3231.py should be in a common directory.
 
 The following file can be used to read the Vehicle Identification Number (VIN) and the errors:
